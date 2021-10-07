@@ -36,7 +36,14 @@
    9) 225466bc3e5f35baa5d07197bbc079345b77525e
       Cleanup after v0.12.23 release
 #
-5.  
+5. Функция func providerSource(...) была создана в коммите 8c928e83589d90a031f811fae52a81be7153e82f
+   Команда: $ git log -S'func providerSource'
+            $ git show 8c928e83589d90a031f811fae52a81be7153e82f
+#
+6. Функция globalPluginDirs была изменена в следующих коммитах 
+   1) 35a058fb3ddfae9cfee0b3893822c9a95b920f4c
+   2) c0b17610965450a89598da491ce9b6b5cbd6393f
+   3) 8364383c359a6b738a436d1b7745ccdce178df47
 
 
 
