@@ -15,20 +15,20 @@
    ## Задача №3 
 
   ### Ответ:
-1. Virtualbox:
-  `Графический интерфейс VirtualBox
-   Версия 6.1.26 r145957 (Qt5.6.2)`
-2. Vagrant: 
-  `PS D:\vagrant> vagrant -v
-   Vagrant 2.2.18`
-3. Ansible: 
-  ` $ ansible --version
-    ansible 2.8.2
-    config file = /etc/ansible/ansible.cfg
-    configured module search path = ['/home/KOT/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
-    ansible python module location = /usr/lib/python3.7/site-packages/ansible
-    executable location = /usr/bin/ansible
-    python version = 3.7.12 (default, Nov 23 2021, 18:58:07) [GCC 11.2.0] `
+1. Virtualbox:  
+  `Графический интерфейс VirtualBox  
+   Версия 6.1.26 r145957 (Qt5.6.2)`  
+2. Vagrant:   
+  `PS D:\vagrant> vagrant -v 
+   Vagrant 2.2.18`  
+3. Ansible:   
+  ` $ ansible --version  
+    ansible 2.8.2  
+    config file = /etc/ansible/ansible.cfg  
+    configured module search path = ['/home/KOT/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']  
+    ansible python module location = /usr/lib/python3.7/site-packages/ansible  
+    executable location = /usr/bin/ansible  
+    python version = 3.7.12 (default, Nov 23 2021, 18:58:07) [GCC 11.2.0] `  
 
 ## Задача №4
 
